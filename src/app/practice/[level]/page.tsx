@@ -9,6 +9,8 @@ import { Button } from '@/components/ui/Button';
 import { generateExam, N5_QUESTIONS, N4_QUESTIONS } from '@/data/jlpt_questions';
 import { ExamQuestion } from '@/types/exam';
 import { motion, AnimatePresence } from 'framer-motion';
+import confetti from 'canvas-confetti';
+
 
 export default function ExamRunnerPage() {
     const params = useParams();
