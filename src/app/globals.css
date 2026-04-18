@@ -1,26 +1,117 @@
 @import "tailwindcss";
 
+@theme {
+  /* Minimalist Monochrome Theme - "Sumi-e" (Ink Wash) is now Legacy */
+  /* New Theme System: Tokyo Day & Tokyo Night */
+
+  --color-background: var(--bg-body);
+  --color-foreground: var(--text-main);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-fg);
+
+  --color-secondary: var(--bg-surface);
+  --color-muted: var(--text-muted);
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-jp: var(--font-noto-sans-jp), sans-serif;
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* --- TOKYO DAY (Light Mode) --- */
+  /* Cảm hứng: Giấy Washi, Mực tàu, Cổng Torii */
+  --bg-body: #FFFCF9;
+  /* Warm Off-white */
+  --bg-surface: #FFFFFF;
+  /* Pure White */
+
+  --text-main: #2D3748;
+  /* Deep Slate */
+  --text-muted: #718096;
+  /* Cool Grey */
+
+  --primary: #EA4C3B;
+  /* Vermillion (Đỏ Cam) */
+  --primary-fg: #FFFFFF;
+
+  --border: #E2E8F0;
+
+  /* Gradients & Decor */
+  --gradient-hero: linear-gradient(135deg, #FFF1F2 0%, #FFFCF9 100%);
+  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.dark {
+  /* --- TOKYO NIGHT (Dark Mode) --- */
+  /* Cảm hứng: Neon, Deep Tech, Cyberpunk */
+  --bg-body: #0F1119;
+  /* Deep Night Blue */
+  --bg-surface: #1A1D2D;
+  /* Lighter Blue-Grey surface */
+
+  --text-main: #F8FAFC;
+  /* Off-white */
+  --text-muted: #94A3B8;
+  /* Blue Grey */
+
+  --primary: #8B5CF6;
+  /* Electric Purple (Tím Neon) */
+  --primary-fg: #FFFFFF;
+
+  --border: #2D3748;
+
+  /* Gradients & Decor */
+  --gradient-hero: linear-gradient(135deg, #0F1119 0%, #1E1B4B 100%);
+  --shadow-card: 0 0 0 1px rgba(255, 255, 255, 0.05);
+  /* Thay shadow bằng viền nhẹ */
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* Base Styles */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--bg-body);
+  color: var(--text-main);
+  transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+    color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Component Overrides using Variables */
+.bg-background {
+  background-color: var(--bg-body);
+}
+
+.bg-surface {
+  background-color: var(--bg-surface);
+}
+
+.text-foreground {
+  color: var(--text-main);
+}
+
+.text-muted {
+  color: var(--text-muted);
+}
+
+/* Typography */
+::selection {
+  background: var(--primary);
+  color: var(--primary-fg);
+}
+
+/* Utilities */
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.dark .glass {
+  background: rgba(15, 17, 25, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Animations */
+* {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
 }

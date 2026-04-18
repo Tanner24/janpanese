@@ -1,0 +1,135 @@
+import { Vocabulary } from '@/types';
+
+// N5 Vocabulary - Colors (10 words)
+export const n5_colors: Vocabulary[] = [
+    {
+        id: 'vocab_n5_color_001',
+        kanji: '赤い',
+        furigana: 'あかい',
+        romaji: 'akai',
+        meaning_vi: 'Màu đỏ',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: '赤いりんごが好きです。',
+        example_sentence_vi: 'Tôi thích táo đỏ.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_color_002',
+        kanji: '青い',
+        furigana: 'あおい',
+        romaji: 'aoi',
+        meaning_vi: 'Màu xanh da trời',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: '空が青いです。',
+        example_sentence_vi: 'Bầu trời xanh.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_color_003',
+        kanji: '白い',
+        furigana: 'しろい',
+        romaji: 'shiroi',
+        meaning_vi: 'Màu trắng',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: '白い猫がいます。',
+        example_sentence_vi: 'Có con mèo trắng.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_color_004',
+        kanji: '黒い',
+        furigana: 'くろい',
+        romaji: 'kuroi',
+        meaning_vi: 'Màu đen',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: '黒い車が好きです。',
+        example_sentence_vi: 'Tôi thích xe đen.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_color_005',
+        kanji: '黄色い',
+        furigana: 'きいろい',
+        romaji: 'kiiroi',
+        meaning_vi: 'Màu vàng',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: '黄色い花がきれいです。',
+        example_sentence_vi: 'Hoa vàng đẹp.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_color_006',
+        kanji: '茶色い',
+        furigana: 'ちゃいろい',
+        romaji: 'chairoi',
+        meaning_vi: 'Màu nâu',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: '茶色い靴を買いました。',
+        example_sentence_vi: 'Đã mua giày nâu.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_color_007',
+        kanji: '緑',
+        furigana: 'みどり',
+        romaji: 'midori',
+        meaning_vi: 'Màu xanh lá',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: '緑の木が多いです。',
+        example_sentence_vi: 'Có nhiều cây xanh.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_color_008',
+        kanji: 'ピンク',
+        furigana: 'ピンク',
+        romaji: 'pinku',
+        meaning_vi: 'Màu hồng',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: 'ピンクのかばんがかわいいです。',
+        example_sentence_vi: 'Túi màu hồng dễ thương.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_color_009',
+        kanji: '灰色',
+        furigana: 'はいいろ',
+        romaji: 'haiiro',
+        meaning_vi: 'Màu xám',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: '灰色のセーターを着ています。',
+        example_sentence_vi: 'Đang mặc áo len xám.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_color_010',
+        kanji: 'オレンジ',
+        furigana: 'オレンジ',
+        romaji: 'orenji',
+        meaning_vi: 'Màu cam',
+        jlpt_level: 'N5',
+        category: 'Colors',
+        example_sentence_jp: 'オレンジのジュースを飲みます。',
+        example_sentence_vi: 'Uống nước cam.',
+        audio_url: '',
+        image_url: ''
+    }
+];

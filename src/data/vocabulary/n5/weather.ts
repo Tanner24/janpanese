@@ -1,0 +1,135 @@
+import { Vocabulary } from '@/types';
+
+// N5 Vocabulary - Weather (10 words)
+export const n5_weather: Vocabulary[] = [
+    {
+        id: 'vocab_n5_weather_001',
+        kanji: '天気',
+        furigana: 'てんき',
+        romaji: 'tenki',
+        meaning_vi: 'Thời tiết',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '今日の天気はいいです。',
+        example_sentence_vi: 'Thời tiết hôm nay đẹp.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_weather_002',
+        kanji: '晴れ',
+        furigana: 'はれ',
+        romaji: 'hare',
+        meaning_vi: 'Nắng',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '明日は晴れです。',
+        example_sentence_vi: 'Ngày mai nắng.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_weather_003',
+        kanji: '雨',
+        furigana: 'あめ',
+        romaji: 'ame',
+        meaning_vi: 'Mưa',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '雨が降っています。',
+        example_sentence_vi: 'Trời đang mưa.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_weather_004',
+        kanji: '雪',
+        furigana: 'ゆき',
+        romaji: 'yuki',
+        meaning_vi: 'Tuyết',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '雪が降りました。',
+        example_sentence_vi: 'Tuyết đã rơi.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_weather_005',
+        kanji: '曇り',
+        furigana: 'くもり',
+        romaji: 'kumori',
+        meaning_vi: 'Nhiều mây',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '今日は曇りです。',
+        example_sentence_vi: 'Hôm nay nhiều mây.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_weather_006',
+        kanji: '風',
+        furigana: 'かぜ',
+        romaji: 'kaze',
+        meaning_vi: 'Gió',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '風が強いです。',
+        example_sentence_vi: 'Gió mạnh.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_weather_007',
+        kanji: '暑い',
+        furigana: 'あつい',
+        romaji: 'atsui',
+        meaning_vi: 'Nóng (thời tiết)',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '夏は暑いです。',
+        example_sentence_vi: 'Mùa hè nóng.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_weather_008',
+        kanji: '寒い',
+        furigana: 'さむい',
+        romaji: 'samui',
+        meaning_vi: 'Lạnh (thời tiết)',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '冬は寒いです。',
+        example_sentence_vi: 'Mùa đông lạnh.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_weather_009',
+        kanji: '涼しい',
+        furigana: 'すずしい',
+        romaji: 'suzushii',
+        meaning_vi: 'Mát mẻ',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '秋は涼しいです。',
+        example_sentence_vi: 'Mùa thu mát mẻ.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_weather_010',
+        kanji: '暖かい',
+        furigana: 'あたたかい',
+        romaji: 'atatakai',
+        meaning_vi: 'Ấm áp',
+        jlpt_level: 'N5',
+        category: 'Weather',
+        example_sentence_jp: '春は暖かいです。',
+        example_sentence_vi: 'Mùa xuân ấm áp.',
+        audio_url: '',
+        image_url: ''
+    }
+];

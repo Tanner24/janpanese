@@ -1,0 +1,135 @@
+import { Vocabulary } from '@/types';
+
+// N5 Vocabulary - Body Parts (10 words)
+export const n5_body: Vocabulary[] = [
+    {
+        id: 'vocab_n5_body_001',
+        kanji: '頭',
+        furigana: 'あたま',
+        romaji: 'atama',
+        meaning_vi: 'Đầu',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '頭が痛いです。',
+        example_sentence_vi: 'Đau đầu.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_body_002',
+        kanji: '目',
+        furigana: 'め',
+        romaji: 'me',
+        meaning_vi: 'Mắt',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '目が大きいです。',
+        example_sentence_vi: 'Mắt to.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_body_003',
+        kanji: '耳',
+        furigana: 'みみ',
+        romaji: 'mimi',
+        meaning_vi: 'Tai',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '耳が痛いです。',
+        example_sentence_vi: 'Đau tai.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_body_004',
+        kanji: '鼻',
+        furigana: 'はな',
+        romaji: 'hana',
+        meaning_vi: 'Mũi',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '鼻が高いです。',
+        example_sentence_vi: 'Mũi cao.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_body_005',
+        kanji: '口',
+        furigana: 'くち',
+        romaji: 'kuchi',
+        meaning_vi: 'Miệng',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '口を開けてください。',
+        example_sentence_vi: 'Hãy mở miệng ra.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_body_006',
+        kanji: '手',
+        furigana: 'て',
+        romaji: 'te',
+        meaning_vi: 'Tay',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '手を洗います。',
+        example_sentence_vi: 'Rửa tay.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_body_007',
+        kanji: '足',
+        furigana: 'あし',
+        romaji: 'ashi',
+        meaning_vi: 'Chân / Bàn chân',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '足が痛いです。',
+        example_sentence_vi: 'Đau chân.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_body_008',
+        kanji: '顔',
+        furigana: 'かお',
+        romaji: 'kao',
+        meaning_vi: 'Mặt',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '顔を洗います。',
+        example_sentence_vi: 'Rửa mặt.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_body_009',
+        kanji: '髪',
+        furigana: 'かみ',
+        romaji: 'kami',
+        meaning_vi: 'Tóc',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '髪が長いです。',
+        example_sentence_vi: 'Tóc dài.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_body_010',
+        kanji: '歯',
+        furigana: 'は',
+        romaji: 'ha',
+        meaning_vi: 'Răng',
+        jlpt_level: 'N5',
+        category: 'Body',
+        example_sentence_jp: '歯を磨きます。',
+        example_sentence_vi: 'Đánh răng.',
+        audio_url: '',
+        image_url: ''
+    }
+];

@@ -1,0 +1,82 @@
+[
+    {
+        "id": "n1_001",
+        "title": "～ごとき／ごとく",
+        "description": "Giống như/Như là (So sánh, ví von, hoặc hạ thấp)",
+        "jlpt_level": "N1",
+        "examples": [
+            {
+                "jp": "私ごときが意見を言う資格はない。",
+                "vi": "Kẻ như tôi thì không có tư cách nói ý kiến."
+            },
+            {
+                "jp": "光陰矢のごとし。",
+                "vi": "Thời gian thấm thoắt thoi đưa (như tên bay)."
+            }
+        ]
+    },
+    {
+        "id": "n1_002",
+        "title": "～ずにはいられない",
+        "description": "Không thể không/Không kìm được...",
+        "jlpt_level": "N1",
+        "examples": [
+            {
+                "jp": "彼の話を聞いて、笑わずにはいられなかった。",
+                "vi": "Nghe câu chuyện của anh ấy, tôi không thể nhịn cười được."
+            },
+            {
+                "jp": "その光景を見て、泣かずにはいられなかった。",
+                "vi": "Nhìn cảnh tượng đó, tôi không thể kìm được nước mắt."
+            }
+        ]
+    },
+    {
+        "id": "n1_003",
+        "title": "～べく",
+        "description": "Để/Vì mục đích (Văn viết trang trọng)",
+        "jlpt_level": "N1",
+        "examples": [
+            {
+                "jp": "彼は医師になるべく、猛勉強している。",
+                "vi": "Anh ấy đang học rất chăm chỉ để trở thành bác sĩ."
+            },
+            {
+                "jp": "平和を実現すべく、努力を続ける。",
+                "vi": "Tiếp tục nỗ lực để thực hiện hòa bình."
+            }
+        ]
+    },
+    {
+        "id": "n1_004",
+        "title": "～んがため（に）",
+        "description": "Để/Vì mục đích lớn lao...",
+        "jlpt_level": "N1",
+        "examples": [
+            {
+                "jp": "真相を知らんがため、彼は調査を続けた。",
+                "vi": "Để biết được chân tướng, anh ấy đã tiếp tục điều tra."
+            },
+            {
+                "jp": "生きんがために働く。",
+                "vi": "Làm việc để sống."
+            }
+        ]
+    },
+    {
+        "id": "n1_005",
+        "title": "～をもって",
+        "description": "Bằng/Bởi/Vào lúc (Trang trọng)",
+        "jlpt_level": "N1",
+        "examples": [
+            {
+                "jp": "本日の営業は午後５時をもって終了いたします。",
+                "vi": "Giờ kinh doanh hôm nay xin được kết thúc vào lúc 5 giờ chiều."
+            },
+            {
+                "jp": "書面をもって通知する。",
+                "vi": "Thông báo bằng văn bản."
+            }
+        ]
+    }
+]

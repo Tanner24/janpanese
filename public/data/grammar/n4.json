@@ -1,0 +1,82 @@
+[
+    {
+        "id": "n4_001",
+        "title": "～つもりです",
+        "description": "Diễn tả dự định: Dự định làm gì...",
+        "jlpt_level": "N4",
+        "examples": [
+            {
+                "jp": "来年、日本へ行くつもりです。",
+                "vi": "Năm sau tôi dự định đi Nhật."
+            },
+            {
+                "jp": "タバコをやめるつもりです。",
+                "vi": "Tôi định bỏ thuốc lá."
+            }
+        ]
+    },
+    {
+        "id": "n4_002",
+        "title": "～かもしれません",
+        "description": "Phỏng đoán: Có lẽ, có thể...",
+        "jlpt_level": "N4",
+        "examples": [
+            {
+                "jp": "明日は雨が降るかもしれません。",
+                "vi": "Ngày mai có thể trời sẽ mưa."
+            },
+            {
+                "jp": "彼は病気かもしれません。",
+                "vi": "Có lẽ anh ấy bị ốm."
+            }
+        ]
+    },
+    {
+        "id": "n4_003",
+        "title": "～てはいけません",
+        "description": "Cấm đoán: Không được làm gì...",
+        "jlpt_level": "N4",
+        "examples": [
+            {
+                "jp": "ここで写真を撮ってはいけません。",
+                "vi": "Không được chụp ảnh ở đây."
+            },
+            {
+                "jp": "お酒を飲んで運転してはいけません。",
+                "vi": "Không được uống rượu lái xe."
+            }
+        ]
+    },
+    {
+        "id": "n4_004",
+        "title": "～なければなりません",
+        "description": "Bắt buộc: Phải làm gì...",
+        "jlpt_level": "N4",
+        "examples": [
+            {
+                "jp": "薬を飲まなければなりません。",
+                "vi": "Phải uống thuốc."
+            },
+            {
+                "jp": "宿題をしなければなりません。",
+                "vi": "Phải làm bài tập."
+            }
+        ]
+    },
+    {
+        "id": "n4_005",
+        "title": "～ことができます",
+        "description": "Khả năng: Có thể làm gì...",
+        "jlpt_level": "N4",
+        "examples": [
+            {
+                "jp": "私は漢字を読むことができます。",
+                "vi": "Tôi có thể đọc chữ Hán."
+            },
+            {
+                "jp": "ここでタバコを吸うことができます。",
+                "vi": "Ở đây có thể hút thuốc."
+            }
+        ]
+    }
+]

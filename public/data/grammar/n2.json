@@ -1,0 +1,82 @@
+[
+    {
+        "id": "n2_001",
+        "title": "～ざるを得ない",
+        "description": "Buộc phải làm: Đành phải..., không thể không...",
+        "jlpt_level": "N2",
+        "examples": [
+            {
+                "jp": "嫌な仕事だが、生活のためには続けざるを得ない。",
+                "vi": "Dù là công việc đáng ghét nhưng vì cuộc sống nên đành phải tiếp tục."
+            },
+            {
+                "jp": "彼の意見には反対せざるを得ない。",
+                "vi": "Tôi buộc phải phản đối ý kiến của anh ấy."
+            }
+        ]
+    },
+    {
+        "id": "n2_002",
+        "title": "～かねない",
+        "description": "Lo ngại: Có thể sẽ (kết quả xấu)...",
+        "jlpt_level": "N2",
+        "examples": [
+            {
+                "jp": "そんなことを言ったら、彼を怒らせかねない。",
+                "vi": "Nếu nói điều đó thì có thể sẽ làm anh ấy nổi giận."
+            },
+            {
+                "jp": "このままでは事故になりかねない。",
+                "vi": "Cứ thế này thì có thể sẽ xảy ra tai nạn."
+            }
+        ]
+    },
+    {
+        "id": "n2_003",
+        "title": "～に際して",
+        "description": "Khi/Nhân dịp: Khi làm gì đó (trang trọng)...",
+        "jlpt_level": "N2",
+        "examples": [
+            {
+                "jp": "申し込みに際して、写真が必要です。",
+                "vi": "Khi đăng ký cần có ảnh."
+            },
+            {
+                "jp": "卒業に際して、先生に感謝の言葉を述べた。",
+                "vi": "Nhân dịp tốt nghiệp, tôi đã nói lời cảm ơn thầy cô."
+            }
+        ]
+    },
+    {
+        "id": "n2_004",
+        "title": "～つつある",
+        "description": "Dần dần đang: Đang dần thay đổi...",
+        "jlpt_level": "N2",
+        "examples": [
+            {
+                "jp": "景気は回復しつつある。",
+                "vi": "Tình hình kinh tế đang dần hồi phục."
+            },
+            {
+                "jp": "事態は改善しつつある。",
+                "vi": "Tình hình đang dần được cải thiện."
+            }
+        ]
+    },
+    {
+        "id": "n2_005",
+        "title": "～てたまらない",
+        "description": "Không chịu được/Rất: ... ơi là ...",
+        "jlpt_level": "N2",
+        "examples": [
+            {
+                "jp": "暑くてたまらない。",
+                "vi": "Nóng không chịu được."
+            },
+            {
+                "jp": "彼に会いたくてたまらない。",
+                "vi": "Tôi muốn gặp anh ấy chết đi được."
+            }
+        ]
+    }
+]

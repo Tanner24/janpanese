@@ -1,0 +1,1253 @@
+[
+    {
+        "id": "n1_001",
+        "kanji": "騰",
+        "on_yomi": [
+            "トウ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Đằng (tiến lên, tăng giá)",
+        "stroke_count": 20,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_002",
+        "kanji": "謄",
+        "on_yomi": [
+            "トウ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Đằng (sao chép)",
+        "stroke_count": 17,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_003",
+        "kanji": "衡",
+        "on_yomi": [
+            "コウ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Hành (cân bằng)",
+        "stroke_count": 16,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_004",
+        "kanji": "膨",
+        "on_yomi": [
+            "ボウ"
+        ],
+        "kun_yomi": [
+            "ふく.らむ",
+            "ふく.れる"
+        ],
+        "meaning_vi": "Bành (phình ra)",
+        "stroke_count": 16,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_005",
+        "kanji": "芳",
+        "on_yomi": [
+            "ホウ"
+        ],
+        "kun_yomi": [
+            "かんば.しい"
+        ],
+        "meaning_vi": "Phương (thơm)",
+        "stroke_count": 7,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_006",
+        "kanji": "妨",
+        "on_yomi": [
+            "ボウ"
+        ],
+        "kun_yomi": [
+            "さまた.げる"
+        ],
+        "meaning_vi": "Phương (cản trở)",
+        "stroke_count": 7,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_007",
+        "kanji": "坊",
+        "on_yomi": [
+            "ボウ",
+            "ボッ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Phường (thầy tu, con trai)",
+        "stroke_count": 7,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_008",
+        "kanji": "房",
+        "on_yomi": [
+            "ボウ"
+        ],
+        "kun_yomi": [
+            "ふさ"
+        ],
+        "meaning_vi": "Phòng (buồng, chùm)",
+        "stroke_count": 8,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_009",
+        "kanji": "肪",
+        "on_yomi": [
+            "ボウ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Phương (mỡ)",
+        "stroke_count": 8,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_010",
+        "kanji": "倣",
+        "on_yomi": [
+            "ホウ"
+        ],
+        "kun_yomi": [
+            "なら.う"
+        ],
+        "meaning_vi": "Phỏng (mô phỏng)",
+        "stroke_count": 10,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_011",
+        "kanji": "崩",
+        "on_yomi": [
+            "ホウ"
+        ],
+        "kun_yomi": [
+            "くず.れる"
+        ],
+        "meaning_vi": "Băng (sụp đổ)",
+        "stroke_count": 11,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_012",
+        "kanji": "訪",
+        "on_yomi": [
+            "ホウ"
+        ],
+        "kun_yomi": [
+            "おとず.れる",
+            "たず.ねる"
+        ],
+        "meaning_vi": "Phỏng (thăm hỏi)",
+        "stroke_count": 11,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_013",
+        "kanji": "葬",
+        "on_yomi": [
+            "ソウ"
+        ],
+        "kun_yomi": [
+            "ほうむ.る"
+        ],
+        "meaning_vi": "Táng (mai táng)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_014",
+        "kanji": "債",
+        "on_yomi": [
+            "サイ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Trái (trái phiếu, nợ)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_015",
+        "kanji": "償",
+        "on_yomi": [
+            "ショウ"
+        ],
+        "kun_yomi": [
+            "つぐな.う"
+        ],
+        "meaning_vi": "Thường (bồi thường)",
+        "stroke_count": 17,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_016",
+        "kanji": "偽",
+        "on_yomi": [
+            "ギ"
+        ],
+        "kun_yomi": [
+            "いつわ.る",
+            "にせ"
+        ],
+        "meaning_vi": "Ngụy (giả, ngụy biện)",
+        "stroke_count": 11,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_017",
+        "kanji": "偏",
+        "on_yomi": [
+            "ヘン"
+        ],
+        "kun_yomi": [
+            "かたよ.る"
+        ],
+        "meaning_vi": "Thiên (thiên lệch)",
+        "stroke_count": 11,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_018",
+        "kanji": "遍",
+        "on_yomi": [
+            "ヘン"
+        ],
+        "kun_yomi": [
+            "あまね.く"
+        ],
+        "meaning_vi": "Biến (phổ biến)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_019",
+        "kanji": "藻",
+        "on_yomi": [
+            "ソウ"
+        ],
+        "kun_yomi": [
+            "も"
+        ],
+        "meaning_vi": "Tảo (tảo biển)",
+        "stroke_count": 19,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_020",
+        "kanji": "敷",
+        "on_yomi": [
+            "フ"
+        ],
+        "kun_yomi": [
+            "し.く"
+        ],
+        "meaning_vi": "Phu (trải)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_021",
+        "kanji": "歓",
+        "on_yomi": [
+            "カン"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Hoan (hoan nghênh)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_022",
+        "kanji": "勧",
+        "on_yomi": [
+            "カン"
+        ],
+        "kun_yomi": [
+            "すす.める"
+        ],
+        "meaning_vi": "Khuyến (khuyên bảo)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_023",
+        "kanji": "権",
+        "on_yomi": [
+            "ケン",
+            "ゴン"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Quyền (quyền lợi)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_024",
+        "kanji": "観",
+        "on_yomi": [
+            "カン"
+        ],
+        "kun_yomi": [
+            "み.る"
+        ],
+        "meaning_vi": "Quan (quan sát)",
+        "stroke_count": 18,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_025",
+        "kanji": "欠",
+        "on_yomi": [
+            "ケツ"
+        ],
+        "kun_yomi": [
+            "か.ける"
+        ],
+        "meaning_vi": "Khuyết (thiếu)",
+        "stroke_count": 4,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_026",
+        "kanji": "欺",
+        "on_yomi": [
+            "ギ"
+        ],
+        "kun_yomi": [
+            "あざむ.く"
+        ],
+        "meaning_vi": "Khi (lừa dối)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_027",
+        "kanji": "詐",
+        "on_yomi": [
+            "サ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Trá (dối trá)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_028",
+        "kanji": "詔",
+        "on_yomi": [
+            "ショウ"
+        ],
+        "kun_yomi": [
+            "みことのり"
+        ],
+        "meaning_vi": "Chiếu (chiếu chỉ)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_029",
+        "kanji": "診",
+        "on_yomi": [
+            "シン"
+        ],
+        "kun_yomi": [
+            "み.る"
+        ],
+        "meaning_vi": "Chẩn (chẩn đoán)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_030",
+        "kanji": "詰",
+        "on_yomi": [
+            "キツ"
+        ],
+        "kun_yomi": [
+            "つ.める"
+        ],
+        "meaning_vi": "Cật (nhét)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_031",
+        "kanji": "詳",
+        "on_yomi": [
+            "ショウ"
+        ],
+        "kun_yomi": [
+            "くわ.しい"
+        ],
+        "meaning_vi": "Tường (tận tường)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_032",
+        "kanji": "試",
+        "on_yomi": [
+            "シ"
+        ],
+        "kun_yomi": [
+            "こころ.みる"
+        ],
+        "meaning_vi": "Thí (thử)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_033",
+        "kanji": "詠",
+        "on_yomi": [
+            "エイ"
+        ],
+        "kun_yomi": [
+            "よ.む"
+        ],
+        "meaning_vi": "Vịnh (ngâm thơ)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_034",
+        "kanji": "該",
+        "on_yomi": [
+            "ガイ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Cai (bao quát, tương ứng)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_035",
+        "kanji": "誇",
+        "on_yomi": [
+            "コ"
+        ],
+        "kun_yomi": [
+            "ほこ.る"
+        ],
+        "meaning_vi": "Khoa (khoa trương)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_036",
+        "kanji": "誓",
+        "on_yomi": [
+            "セイ"
+        ],
+        "kun_yomi": [
+            "ちか.う"
+        ],
+        "meaning_vi": "Thệ (thề thốt)",
+        "stroke_count": 14,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_037",
+        "kanji": "誕",
+        "on_yomi": [
+            "タン"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Đản (sinh ra)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_038",
+        "kanji": "誘",
+        "on_yomi": [
+            "ユウ"
+        ],
+        "kun_yomi": [
+            "さそ.う"
+        ],
+        "meaning_vi": "Dụ (mời)",
+        "stroke_count": 14,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_039",
+        "kanji": "誠",
+        "on_yomi": [
+            "セイ"
+        ],
+        "kun_yomi": [
+            "まこと"
+        ],
+        "meaning_vi": "Thành (thành thực)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_040",
+        "kanji": "誰",
+        "on_yomi": [
+            "スイ"
+        ],
+        "kun_yomi": [
+            "だれ"
+        ],
+        "meaning_vi": "Thùy (ai)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_041",
+        "kanji": "論",
+        "on_yomi": [
+            "ロン"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Luận (lý luận)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_042",
+        "kanji": "諦",
+        "on_yomi": [
+            "テイ"
+        ],
+        "kun_yomi": [
+            "あきら.める"
+        ],
+        "meaning_vi": "Đế (từ bỏ)",
+        "stroke_count": 16,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_043",
+        "kanji": "諭",
+        "on_yomi": [
+            "ユ"
+        ],
+        "kun_yomi": [
+            "さと.す"
+        ],
+        "meaning_vi": "Dụ (dạy bảo)",
+        "stroke_count": 16,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_044",
+        "kanji": "諮",
+        "on_yomi": [
+            "シ"
+        ],
+        "kun_yomi": [
+            "はか.る"
+        ],
+        "meaning_vi": "Tư (hỏi ý kiến)",
+        "stroke_count": 16,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_045",
+        "kanji": "諸",
+        "on_yomi": [
+            "ショ"
+        ],
+        "kun_yomi": [
+            "もろ"
+        ],
+        "meaning_vi": "Chư (các, nhiều)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_046",
+        "kanji": "諾",
+        "on_yomi": [
+            "ダク"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Nặc (chấp thuận)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_047",
+        "kanji": "謀",
+        "on_yomi": [
+            "ボウ",
+            "ム"
+        ],
+        "kun_yomi": [
+            "はか.る"
+        ],
+        "meaning_vi": "Mưu (âm mưu)",
+        "stroke_count": 16,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_048",
+        "kanji": "謁",
+        "on_yomi": [
+            "エツ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Yết (yết kiến)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_049",
+        "kanji": "謙",
+        "on_yomi": [
+            "ケン"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Khiêm (khiêm tốn)",
+        "stroke_count": 17,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_050",
+        "kanji": "謝",
+        "on_yomi": [
+            "シャ"
+        ],
+        "kun_yomi": [
+            "あやま.る"
+        ],
+        "meaning_vi": "Tạ (cảm tạ, tạ lỗi)",
+        "stroke_count": 17,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_051",
+        "kanji": "謡",
+        "on_yomi": [
+            "ヨウ"
+        ],
+        "kun_yomi": [
+            "うた.い",
+            "うた.う"
+        ],
+        "meaning_vi": "Dao (ca dao)",
+        "stroke_count": 16,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_052",
+        "kanji": "謹",
+        "on_yomi": [
+            "キン"
+        ],
+        "kun_yomi": [
+            "つつし.む"
+        ],
+        "meaning_vi": "Cẩn (cẩn thận)",
+        "stroke_count": 17,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_053",
+        "kanji": "譜",
+        "on_yomi": [
+            "フ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Phổ (phổ nhạc)",
+        "stroke_count": 19,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_054",
+        "kanji": "譲",
+        "on_yomi": [
+            "ジョウ"
+        ],
+        "kun_yomi": [
+            "ゆず.る"
+        ],
+        "meaning_vi": "Nhượng (nhường)",
+        "stroke_count": 20,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_055",
+        "kanji": "護",
+        "on_yomi": [
+            "ゴ"
+        ],
+        "kun_yomi": [
+            "まも.る"
+        ],
+        "meaning_vi": "Hộ (bảo hộ)",
+        "stroke_count": 20,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_056",
+        "kanji": "豆",
+        "on_yomi": [
+            "トウ",
+            "ズ"
+        ],
+        "kun_yomi": [
+            "まめ"
+        ],
+        "meaning_vi": "Đậu (hạt đậu)",
+        "stroke_count": 7,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_057",
+        "kanji": "豚",
+        "on_yomi": [
+            "トン"
+        ],
+        "kun_yomi": [
+            "ぶた"
+        ],
+        "meaning_vi": "Đồn (con lợn)",
+        "stroke_count": 11,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_058",
+        "kanji": "象",
+        "on_yomi": [
+            "ショウ",
+            "ゾウ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Tượng (con voi, hiện tượng)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_059",
+        "kanji": "豪",
+        "on_yomi": [
+            "ゴウ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Hào (hào hoa, hào kiệt)",
+        "stroke_count": 14,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_060",
+        "kanji": "貝",
+        "on_yomi": [],
+        "kun_yomi": [
+            "かい"
+        ],
+        "meaning_vi": "Bối (con sò)",
+        "stroke_count": 7,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_061",
+        "kanji": "貞",
+        "on_yomi": [
+            "テイ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Trinh (trinh tiết)",
+        "stroke_count": 9,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_062",
+        "kanji": "負",
+        "on_yomi": [
+            "フ"
+        ],
+        "kun_yomi": [
+            "ま.ける"
+        ],
+        "meaning_vi": "Phụ (thua)",
+        "stroke_count": 9,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_063",
+        "kanji": "貢",
+        "on_yomi": [
+            "コウ",
+            "ク"
+        ],
+        "kun_yomi": [
+            "みつ.ぐ"
+        ],
+        "meaning_vi": "Cống (cống hiến)",
+        "stroke_count": 10,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_064",
+        "kanji": "貫",
+        "on_yomi": [
+            "カン"
+        ],
+        "kun_yomi": [
+            "つらぬ.く"
+        ],
+        "meaning_vi": "Quán (xuyên qua)",
+        "stroke_count": 11,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_065",
+        "kanji": "責",
+        "on_yomi": [
+            "セキ"
+        ],
+        "kun_yomi": [
+            "せ.める"
+        ],
+        "meaning_vi": "Trách (trách nhiệm)",
+        "stroke_count": 11,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_066",
+        "kanji": "貯",
+        "on_yomi": [
+            "チョ"
+        ],
+        "kun_yomi": [
+            "た.める"
+        ],
+        "meaning_vi": "Trữ (tích trữ)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_067",
+        "kanji": "貴",
+        "on_yomi": [
+            "キ"
+        ],
+        "kun_yomi": [
+            "とうと.い"
+        ],
+        "meaning_vi": "Quý (quý giá)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_068",
+        "kanji": "貼",
+        "on_yomi": [
+            "テン",
+            "チョウ"
+        ],
+        "kun_yomi": [
+            "は.る"
+        ],
+        "meaning_vi": "Thiếp (dán)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_069",
+        "kanji": "買",
+        "on_yomi": [
+            "バイ"
+        ],
+        "kun_yomi": [
+            "か.う"
+        ],
+        "meaning_vi": "Mãi (mua)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_070",
+        "kanji": "貸",
+        "on_yomi": [
+            "タイ"
+        ],
+        "kun_yomi": [
+            "か.す"
+        ],
+        "meaning_vi": "Thải (cho mượn)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_071",
+        "kanji": "費",
+        "on_yomi": [
+            "ヒ"
+        ],
+        "kun_yomi": [
+            "つい.やす"
+        ],
+        "meaning_vi": "Phí (chi phí)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_072",
+        "kanji": "賀",
+        "on_yomi": [
+            "ガ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Hạ (chúc mừng)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_073",
+        "kanji": "賃",
+        "on_yomi": [
+            "チン"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Nhẫm (tiền thuê)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_074",
+        "kanji": "賄",
+        "on_yomi": [
+            "ワイ"
+        ],
+        "kun_yomi": [
+            "まかな.う"
+        ],
+        "meaning_vi": "Hối (hối lộ)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_075",
+        "kanji": "資",
+        "on_yomi": [
+            "シ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Tư (tư bản, đầu tư)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_076",
+        "kanji": "賊",
+        "on_yomi": [
+            "ゾク"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Tặc (hải tặc)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_077",
+        "kanji": "賓",
+        "on_yomi": [
+            "ヒン"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Tân (khách)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_078",
+        "kanji": "賛",
+        "on_yomi": [
+            "サン"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Tán (tán thành)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_079",
+        "kanji": "賜",
+        "on_yomi": [
+            "シ"
+        ],
+        "kun_yomi": [
+            "たまわ.る"
+        ],
+        "meaning_vi": "Tứ (ban thưởng)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_080",
+        "kanji": "賞",
+        "on_yomi": [
+            "ショウ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Thưởng (giải thưởng)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_081",
+        "kanji": "賠",
+        "on_yomi": [
+            "バイ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Bồi (bồi thường)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_082",
+        "kanji": "賢",
+        "on_yomi": [
+            "ケン"
+        ],
+        "kun_yomi": [
+            "かしこ.い"
+        ],
+        "meaning_vi": "Hiền (khôn ngoan)",
+        "stroke_count": 16,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_083",
+        "kanji": "売",
+        "on_yomi": [
+            "バイ"
+        ],
+        "kun_yomi": [
+            "う.る"
+        ],
+        "meaning_vi": "Mại (bán)",
+        "stroke_count": 7,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_084",
+        "kanji": "賦",
+        "on_yomi": [
+            "フ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Phú (phú bẩm)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_085",
+        "kanji": "質",
+        "on_yomi": [
+            "シツ",
+            "シチ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Chất (chất lượng)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_086",
+        "kanji": "頼",
+        "on_yomi": [
+            "ライ"
+        ],
+        "kun_yomi": [
+            "たの.む"
+        ],
+        "meaning_vi": "Lại (nhờ cậy)",
+        "stroke_count": 16,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_087",
+        "kanji": "購",
+        "on_yomi": [
+            "コウ"
+        ],
+        "kun_yomi": [
+            "あがな.う"
+        ],
+        "meaning_vi": "Cấu (mua)",
+        "stroke_count": 17,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_088",
+        "kanji": "贈",
+        "on_yomi": [
+            "ゾウ",
+            "ソウ"
+        ],
+        "kun_yomi": [
+            "おく.る"
+        ],
+        "meaning_vi": "Tặng (tặng quà)",
+        "stroke_count": 18,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_089",
+        "kanji": "赤",
+        "on_yomi": [
+            "セキ",
+            "シャク"
+        ],
+        "kun_yomi": [
+            "あか"
+        ],
+        "meaning_vi": "Xích (đỏ)",
+        "stroke_count": 7,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_090",
+        "kanji": "赦",
+        "on_yomi": [
+            "シャ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Xá (tha thứ)",
+        "stroke_count": 11,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_091",
+        "kanji": "走",
+        "on_yomi": [
+            "ソウ"
+        ],
+        "kun_yomi": [
+            "はし.る"
+        ],
+        "meaning_vi": "Tẩu (chạy)",
+        "stroke_count": 7,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_092",
+        "kanji": "赴",
+        "on_yomi": [
+            "フ"
+        ],
+        "kun_yomi": [
+            "おもむ.く"
+        ],
+        "meaning_vi": "Phó (tới nơi)",
+        "stroke_count": 9,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_093",
+        "kanji": "起",
+        "on_yomi": [
+            "キ"
+        ],
+        "kun_yomi": [
+            "お.きる"
+        ],
+        "meaning_vi": "Khởi (thức dậy)",
+        "stroke_count": 10,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_094",
+        "kanji": "超",
+        "on_yomi": [
+            "チョウ"
+        ],
+        "kun_yomi": [
+            "こ.える"
+        ],
+        "meaning_vi": "Siêu (vượt quá)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_095",
+        "kanji": "越",
+        "on_yomi": [
+            "エツ"
+        ],
+        "kun_yomi": [
+            "こ.す"
+        ],
+        "meaning_vi": "Việt (vượt qua)",
+        "stroke_count": 12,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_096",
+        "kanji": "趣",
+        "on_yomi": [
+            "シュ"
+        ],
+        "kun_yomi": [
+            "おもむき"
+        ],
+        "meaning_vi": "Thú (hứng thú)",
+        "stroke_count": 15,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_097",
+        "kanji": "足",
+        "on_yomi": [
+            "ソク"
+        ],
+        "kun_yomi": [
+            "あし",
+            "た.りる"
+        ],
+        "meaning_vi": "Túc (chân)",
+        "stroke_count": 7,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_098",
+        "kanji": "距",
+        "on_yomi": [
+            "キョ"
+        ],
+        "kun_yomi": [],
+        "meaning_vi": "Cự (khoảng cách)",
+        "stroke_count": 11,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_099",
+        "kanji": "跡",
+        "on_yomi": [
+            "セキ"
+        ],
+        "kun_yomi": [
+            "あと"
+        ],
+        "meaning_vi": "Tích (dấu vết)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    },
+    {
+        "id": "n1_100",
+        "kanji": "路",
+        "on_yomi": [
+            "ロ"
+        ],
+        "kun_yomi": [
+            "じ"
+        ],
+        "meaning_vi": "Lộ (con đường)",
+        "stroke_count": 13,
+        "jlpt_level": "N1"
+    }
+]

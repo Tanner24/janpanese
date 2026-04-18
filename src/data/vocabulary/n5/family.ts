@@ -1,0 +1,135 @@
+import { Vocabulary } from '@/types';
+
+// N5 Vocabulary - Family (10 words)
+export const n5_family: Vocabulary[] = [
+    {
+        id: 'vocab_n5_family_001',
+        kanji: '家族',
+        furigana: 'かぞく',
+        romaji: 'kazoku',
+        meaning_vi: 'Gia đình',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: '家族は四人です。',
+        example_sentence_vi: 'Gia đình có 4 người.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_family_002',
+        kanji: '父',
+        furigana: 'ちち',
+        romaji: 'chichi',
+        meaning_vi: 'Bố (mình)',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: '父は会社員です。',
+        example_sentence_vi: 'Bố tôi là nhân viên công ty.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_family_003',
+        kanji: '母',
+        furigana: 'はは',
+        romaji: 'haha',
+        meaning_vi: 'Mẹ (mình)',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: '母は料理が上手です。',
+        example_sentence_vi: 'Mẹ tôi nấu ăn giỏi.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_family_004',
+        kanji: '兄',
+        furigana: 'あに',
+        romaji: 'ani',
+        meaning_vi: 'Anh trai (mình)',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: '兄は大学生です。',
+        example_sentence_vi: 'Anh trai tôi là sinh viên đại học.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_family_005',
+        kanji: '姉',
+        furigana: 'あね',
+        romaji: 'ane',
+        meaning_vi: 'Chị gái (mình)',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: '姉は看護師です。',
+        example_sentence_vi: 'Chị gái tôi là y tá.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_family_006',
+        kanji: '弟',
+        furigana: 'おとうと',
+        romaji: 'otouto',
+        meaning_vi: 'Em trai (mình)',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: '弟は高校生です。',
+        example_sentence_vi: 'Em trai tôi học cấp 3.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_family_007',
+        kanji: '妹',
+        furigana: 'いもうと',
+        romaji: 'imouto',
+        meaning_vi: 'Em gái (mình)',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: '妹はまだ小学生です。',
+        example_sentence_vi: 'Em gái tôi vẫn còn học tiểu học.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_family_008',
+        kanji: 'お父さん',
+        furigana: 'おとうさん',
+        romaji: 'otousan',
+        meaning_vi: 'Bố (người khác)',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: 'お父さんは元気ですか。',
+        example_sentence_vi: 'Bố bạn khỏe không?',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_family_009',
+        kanji: 'お母さん',
+        furigana: 'おかあさん',
+        romaji: 'okaasan',
+        meaning_vi: 'Mẹ (người khác)',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: 'お母さんによろしく。',
+        example_sentence_vi: 'Gửi lời hỏi thăm mẹ bạn.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_family_010',
+        kanji: '子供',
+        furigana: 'こども',
+        romaji: 'kodomo',
+        meaning_vi: 'Trẻ em, con cái',
+        jlpt_level: 'N5',
+        category: 'Family',
+        example_sentence_jp: '子供が三人います。',
+        example_sentence_vi: 'Có 3 đứa con.',
+        audio_url: '',
+        image_url: ''
+    }
+];

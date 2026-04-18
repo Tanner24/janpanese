@@ -1,0 +1,135 @@
+import { Vocabulary } from '@/types';
+
+// N5 Vocabulary - Animals (10 words)
+export const n5_animals: Vocabulary[] = [
+    {
+        id: 'vocab_n5_animal_001',
+        kanji: '犬',
+        furigana: 'いぬ',
+        romaji: 'inu',
+        meaning_vi: 'Chó',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: '犬を飼っています。',
+        example_sentence_vi: 'Tôi nuôi chó.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_animal_002',
+        kanji: '猫',
+        furigana: 'ねこ',
+        romaji: 'neko',
+        meaning_vi: 'Mèo',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: '猫が好きです。',
+        example_sentence_vi: 'Tôi thích mèo.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_animal_003',
+        kanji: '鳥',
+        furigana: 'とり',
+        romaji: 'tori',
+        meaning_vi: 'Chim',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: '鳥が鳴いています。',
+        example_sentence_vi: 'Chim đang hót.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_animal_004',
+        kanji: '魚',
+        furigana: 'さかな',
+        romaji: 'sakana',
+        meaning_vi: 'Cá',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: '魚を食べます。',
+        example_sentence_vi: 'Ăn cá.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_animal_005',
+        kanji: '象',
+        furigana: 'ぞう',
+        romaji: 'zou',
+        meaning_vi: 'Voi',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: '象は大きいです。',
+        example_sentence_vi: 'Voi to.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_animal_006',
+        kanji: '馬',
+        furigana: 'うま',
+        romaji: 'uma',
+        meaning_vi: 'Ngựa',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: '馬に乗りたいです。',
+        example_sentence_vi: 'Muốn cưỡi ngựa.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_animal_007',
+        kanji: '牛',
+        furigana: 'うし',
+        romaji: 'ushi',
+        meaning_vi: 'Bò',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: '牛乳を飲みます。',
+        example_sentence_vi: 'Uống sữa bò.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_animal_008',
+        kanji: '豚',
+        furigana: 'ぶた',
+        romaji: 'buta',
+        meaning_vi: 'Lợn',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: '豚肉が好きです。',
+        example_sentence_vi: 'Thích thịt lợn.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_animal_009',
+        kanji: 'パンダ',
+        furigana: 'パンダ',
+        romaji: 'panda',
+        meaning_vi: 'Gấu trúc',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: 'パンダがかわいいです。',
+        example_sentence_vi: 'Gấu trúc dễ thương.',
+        audio_url: '',
+        image_url: ''
+    },
+    {
+        id: 'vocab_n5_animal_010',
+        kanji: 'ライオン',
+        furigana: 'ライオン',
+        romaji: 'raion',
+        meaning_vi: 'Sư tử',
+        jlpt_level: 'N5',
+        category: 'Animals',
+        example_sentence_jp: 'ライオンは強いです。',
+        example_sentence_vi: 'Sư tử mạnh.',
+        audio_url: '',
+        image_url: ''
+    }
+];

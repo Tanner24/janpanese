@@ -1,0 +1,82 @@
+[
+    {
+        "id": "n5_001",
+        "title": "～は～です",
+        "description": "Cấu trúc câu khẳng định cơ bản: N1 là N2.",
+        "jlpt_level": "N5",
+        "examples": [
+            {
+                "jp": "私は学生です。",
+                "vi": "Tôi là học sinh."
+            },
+            {
+                "jp": "これは私の本です。",
+                "vi": "Đây là sách của tôi."
+            }
+        ]
+    },
+    {
+        "id": "n5_002",
+        "title": "～ですか",
+        "description": "Câu nghi vấn: ... phải không?",
+        "jlpt_level": "N5",
+        "examples": [
+            {
+                "jp": "あなたは学生ですか。",
+                "vi": "Bạn là học sinh phải không?"
+            },
+            {
+                "jp": "これは何ですか。",
+                "vi": "Cái này là cái gì?"
+            }
+        ]
+    },
+    {
+        "id": "n5_003",
+        "title": "～も",
+        "description": "Trợ từ chỉ sự tương đồng: ... cũng ...",
+        "jlpt_level": "N5",
+        "examples": [
+            {
+                "jp": "私もベトナム人です。",
+                "vi": "Tôi cũng là người Việt Nam."
+            },
+            {
+                "jp": "これも美味しいです。",
+                "vi": "Cái này cũng ngon."
+            }
+        ]
+    },
+    {
+        "id": "n5_004",
+        "title": "～の～",
+        "description": "Trợ từ chỉ sở hữu: ... của ...",
+        "jlpt_level": "N5",
+        "examples": [
+            {
+                "jp": "私の父は医者です。",
+                "vi": "Bố của tôi là bác sĩ."
+            },
+            {
+                "jp": "日本語の本",
+                "vi": "Sách tiếng Nhật"
+            }
+        ]
+    },
+    {
+        "id": "n5_005",
+        "title": "～があります／います",
+        "description": "Chỉ sự tồn tại: Có ... (vật/người)",
+        "jlpt_level": "N5",
+        "examples": [
+            {
+                "jp": "机の上に本があります。",
+                "vi": "Trên bàn có quyển sách."
+            },
+            {
+                "jp": "教室に学生がいます。",
+                "vi": "Trong lớp học có học sinh."
+            }
+        ]
+    }
+]

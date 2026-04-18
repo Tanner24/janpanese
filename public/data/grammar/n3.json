@@ -1,0 +1,82 @@
+[
+    {
+        "id": "n3_001",
+        "title": "～に対して",
+        "description": "Đối lập/Đối với: Đối với ..., trái ngược với ...",
+        "jlpt_level": "N3",
+        "examples": [
+            {
+                "jp": "彼は女性に対して優しいです。",
+                "vi": "Anh ấy dịu dàng với phụ nữ."
+            },
+            {
+                "jp": "昨日は雨だったのに対して、今日は良い天気だ。",
+                "vi": "Trái ngược với hôm qua mưa, hôm nay thời tiết đẹp."
+            }
+        ]
+    },
+    {
+        "id": "n3_002",
+        "title": "～によって",
+        "description": "Nguyên nhân/Phương pháp/Tùy theo: Do..., bằng cách..., tùy vào...",
+        "jlpt_level": "N3",
+        "examples": [
+            {
+                "jp": "台風によって木が倒れた。",
+                "vi": "Do bão mà cây đổ."
+            },
+            {
+                "jp": "人によって考え方が違います。",
+                "vi": "Tùy vào mỗi người mà cách suy nghĩ khác nhau."
+            }
+        ]
+    },
+    {
+        "id": "n3_003",
+        "title": "～ということは",
+        "description": "Định nghĩa/Giải thích: Cái việc mà...",
+        "jlpt_level": "N3",
+        "examples": [
+            {
+                "jp": "生きるということは大変なことです。",
+                "vi": "Sống là một việc vất vả."
+            },
+            {
+                "jp": "彼が来ないということは、何かあったのかもしれない。",
+                "vi": "Việc anh ấy không đến có nghĩa là có lẽ đã có chuyện gì đó."
+            }
+        ]
+    },
+    {
+        "id": "n3_004",
+        "title": "～とおり（に）",
+        "description": "Làm theo, đúng như: Theo như...",
+        "jlpt_level": "N3",
+        "examples": [
+            {
+                "jp": "私が言ったとおりに書いてください。",
+                "vi": "Hãy viết theo như tôi đã nói."
+            },
+            {
+                "jp": "予想どおりの結果になった。",
+                "vi": "Kết quả đúng như dự đoán."
+            }
+        ]
+    },
+    {
+        "id": "n3_005",
+        "title": "～ばかり",
+        "description": "Toàn là/Chỉ: Toàn làm gì...",
+        "jlpt_level": "N3",
+        "examples": [
+            {
+                "jp": "彼は遊んでばかりいる。",
+                "vi": "Anh ta toàn chơi thôi."
+            },
+            {
+                "jp": "甘いものばかり食べると太りますよ。",
+                "vi": "Ăn toàn đồ ngọt thì sẽ béo đấy."
+            }
+        ]
+    }
+]
